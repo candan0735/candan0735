@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @candan0735
-- 👀 I’m interested in yoga,psychology,web designing.
+- 👀 I’m interested in yoga,psychology,SEO.
 - 🌱 I’m currently learning html,css,javascript,microsoft access.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
